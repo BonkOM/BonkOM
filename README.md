@@ -1,0 +1,5 @@
+- Hola soy BonkOM
+- Actualmente me interesa el mundo de linux, la programacion y la electronica
+- Me encuentro aprendiendo pentesting en linux, a utlizar maquinaria como cnc y administrar servidores
+- Me encantaria colaborar con cualquier persona que tenga un proyecto intaresante que nos lleve a aprender y crear grandes cosas
+- me pueden contactar a traves de mi correo personal que es yodarinelom@gmail.com
